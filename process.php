@@ -1,6 +1,6 @@
 <?php 
 
-$servername = "myclassdb.ccuftx8lkjqj.us-east-1.rds.amazonaws.com";
+$servername = "myclassdb.rds.amazonaws.com";
 $username = "myclassdb";
 $password = "myclassdb";
 $dbname = "myclassdb";
