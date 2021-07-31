@@ -1,5 +1,5 @@
-RDS   sudo yum install mysql
-	mysql -h "endpoint" -u -p
+#RDS    yum install mariadb
+#	mysql -h "endpoint" -u -p
 
 #!/bin/bash
 yum install httpd php php-mysql -y
